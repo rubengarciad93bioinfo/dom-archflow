@@ -1,0 +1,24 @@
+# Nextflow
+work/
+.nextflow*
+.nf*
+.nfs*
+
+# Resultados grandes
+results/
+out/
+trees/
+logs/
+
+# Bases de datos / recursos gordos
+PfamScan/
+db/
+data/
+*.gz
+*.tar
+*.tar.gz
+
+# Cosas de sistema/editor
+.DS_Store
+.idea/
+.vscode/
